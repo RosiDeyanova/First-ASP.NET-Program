@@ -5,4 +5,8 @@
     <RootNamespace>First_ASP.NET_App</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Pie\" />
+  </ItemGroup>
+
 </Project>
