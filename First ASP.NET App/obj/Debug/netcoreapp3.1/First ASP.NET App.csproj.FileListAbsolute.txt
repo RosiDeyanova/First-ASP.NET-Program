@@ -1,0 +1,20 @@
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\First ASP.NET App.exe
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\First ASP.NET App.deps.json
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\First ASP.NET App.runtimeconfig.json
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\First ASP.NET App.runtimeconfig.dev.json
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\First ASP.NET App.dll
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\First ASP.NET App.pdb
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.csprojAssemblyReference.cache
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.AssemblyInfoInputs.cache
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.AssemblyInfo.cs
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.csproj.CoreCompileInputs.cache
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\staticwebassets\First ASP.NET App.StaticWebAssets.Manifest.cache
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\staticwebassets\First ASP.NET App.StaticWebAssets.xml
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\scopedcss\bundle\First ASP.NET App.styles.css
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.RazorTargetAssemblyInfo.cache
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.dll
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.pdb
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\First ASP.NET App.genruntimeconfig.cache
