@@ -15,5 +15,7 @@ namespace First_ASP.NET_App.Models
 
         public DbSet<Pie> Pies { set; get; }
         public DbSet<Category> Categories { set; get; }
+
+     
     }
 }
