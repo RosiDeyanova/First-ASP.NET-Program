@@ -1,4 +1,5 @@
 ﻿using First_ASP.NET_App.Models;
+using First_ASP.NET_App.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -20,7 +21,11 @@ namespace First_ASP.NET_App.Controllers
 
         public ViewResult List() 
         {
-            return View(_pieRepository.AllPies);
+            PiesListViewModel piesListViewModel = new PiesListViewModel();
+            piesListViewModel.Pies = _pieRepository.AllPies;
+            piesListViewModel.CurrentCategory = "Cheese cakes";
+
+            return View(piesListViewModel);
         }
 
     }
