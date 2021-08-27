@@ -48,7 +48,7 @@ namespace First_ASP.NET_App
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id:int?}");
             });
         }
     }

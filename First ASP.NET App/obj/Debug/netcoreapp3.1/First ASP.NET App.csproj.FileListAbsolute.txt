@@ -145,3 +145,4 @@ C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debu
 C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rosi Deyanova\source\repos\First ASP.NET App\First ASP.NET App\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
